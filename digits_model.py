@@ -17,7 +17,6 @@ slim = tf.contrib.slim
 from data import mnist_data
 
 import lenet
-import rcnn
 
 from tensorflow.python.ops import math_ops
 from tensorflow.python.ops import embedding_ops
